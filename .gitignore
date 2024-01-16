@@ -1,0 +1,16 @@
+# .gitignore
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.swn
+*.bak
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.ipynb_checkpoints/
+*.env
