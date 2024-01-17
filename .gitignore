@@ -14,3 +14,4 @@ __pycache__/
 *.iml
 *.ipynb_checkpoints/
 *.env
+secrets.toml
